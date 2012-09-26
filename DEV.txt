@@ -1,0 +1,11 @@
+Information for developers:
+---------------------------
+For those of you familiar with Maven, you know the drill...
+For all others, you can generate an Eclipse project very easily using:
+
+mvn eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs=true
+
+Once the eclipse project is generated, you can import it in your workspace and start playing :)
+
+
+Otherwise, the maven2eclipse plugin can directly check-out a project out a SCM and create the project for you...

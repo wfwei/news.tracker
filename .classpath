@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.2/commons-codec-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/rome/rome/1.0/rome-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jdom/jdom/1.0/jdom-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/json/json/20070829/json-20070829.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.4/junit-4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.12/log4j-1.2.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/easymock/easymock/2.3/easymock-2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/easymock/easymockclassextension/2.3/easymockclassextension-2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-3.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.6.3-sources.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="libs/rome.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-core-2.9.1.jar" sourcepath="C:/Users/WangFengwei/.m2/repository/org/apache/lucene/lucene-core/2.9.1/lucene-core-2.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/chinese-analyzer.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
